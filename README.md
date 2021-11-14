@@ -1,6 +1,6 @@
 # Blockchain_demo
 
-###To run the project
+### To run the project
 
 Clone the project first: 
 ```
